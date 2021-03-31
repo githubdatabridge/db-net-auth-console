@@ -1,0 +1,7 @@
+C:\Users\pamatulli\Documents\Databridge\Development\db-net-azure-auth\bin\Debug\net5.0\publish\db-net-azure-auth.exe
+C:\Users\pamatulli\Documents\Databridge\Development\db-net-azure-auth\bin\Debug\net5.0\publish\db-net-azure-auth.dll
+C:\Users\pamatulli\Documents\Databridge\Development\db-net-azure-auth\bin\Debug\net5.0\publish\db-net-azure-auth.deps.json
+C:\Users\pamatulli\Documents\Databridge\Development\db-net-azure-auth\bin\Debug\net5.0\publish\db-net-azure-auth.runtimeconfig.json
+C:\Users\pamatulli\Documents\Databridge\Development\db-net-azure-auth\bin\Debug\net5.0\publish\db-net-azure-auth.pdb
+C:\Users\pamatulli\Documents\Databridge\Development\db-net-azure-auth\bin\Debug\net5.0\publish\System.Net.Http.Extensions.dll
+C:\Users\pamatulli\Documents\Databridge\Development\db-net-azure-auth\bin\Debug\net5.0\publish\System.Net.Http.Primitives.dll
