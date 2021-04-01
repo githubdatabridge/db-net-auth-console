@@ -11,7 +11,7 @@ namespace Demo
         static async Task Main(string[] args)
         {
             int i = 0;
-            while (i < 10)
+            while (i < 30)
             {
                 await Task.Delay(2000);
                 var values = new Dictionary<string, string>
@@ -30,6 +30,11 @@ namespace Demo
                     Console.WriteLine(responseString);
                     Console.WriteLine("--------------------------------------------------------------------");
                     i++;
+                    if (i == 29)
+                    {
+                        Console.WriteLine("FINISH");
+                        Console.Read();
+                    }
                 }
                 catch (Exception e)
                 {
