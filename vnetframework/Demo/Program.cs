@@ -33,6 +33,7 @@ namespace Demo
                 }
                 catch (Exception e)
                 {
+                    Console.Read();
                     throw e;
                 }
             }
