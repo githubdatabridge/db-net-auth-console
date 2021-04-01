@@ -1,0 +1,7 @@
+C:\Users\pamatulli\source\repos\Demo\bin\Debug\Demo.exe.config
+C:\Users\pamatulli\source\repos\Demo\bin\Debug\Demo.exe
+C:\Users\pamatulli\source\repos\Demo\bin\Debug\Demo.pdb
+C:\Users\pamatulli\source\repos\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\pamatulli\source\repos\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\pamatulli\source\repos\Demo\obj\Debug\Demo.exe
+C:\Users\pamatulli\source\repos\Demo\obj\Debug\Demo.pdb
