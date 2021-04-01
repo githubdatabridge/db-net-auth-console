@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Le84/1ACI7LJ7hkhZhj2kWFY2MhZVZlRUx54RjzMKAjbH07WEkiOJfk6uSmmOwU9+fkSDjSs3CkuBoxF4uJU0g==",
+  "dgSpecHash": "R52/EqCF1ix2MWCblHDOhmK07fENpZtfQMWW6MN8xEL9s6Lw1qQkZ6xjHXU8DKcrSeVikIiQTz9O5/j4htHG/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-azure-auth\\db-net-azure-auth.csproj",
+  "projectFilePath": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-auth-console\\db-net-azure-auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pamatulli\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
     "C:\\Users\\pamatulli\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",

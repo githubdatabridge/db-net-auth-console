@@ -23,12 +23,18 @@ namespace Demo
                 };
 
                 var content = new FormUrlEncodedContent(values);
-
-                var response = await client.PostAsync("https://login.microsoftonline.com/473672ba-cd07-4371-a2ae-788b4c61840e/oauth2/v2.0/token", content);
-                var responseString = await response.Content.ReadAsStringAsync();
-                Console.WriteLine(responseString);
-                Console.WriteLine("--------------------------------------------------------------------");
-                i++;
+                try
+                {
+                    var response = await client.PostAsync("https://login.microsoftonline.com/473672ba-cd07-4371-a2ae-788b4c61840e/oauth2/v2.0/token", content);
+                    var responseString = await response.Content.ReadAsStringAsync();
+                    Console.WriteLine(responseString);
+                    Console.WriteLine("--------------------------------------------------------------------");
+                    i++;
+                }
+                catch (Exception e)
+                {
+                    throw e;
+                }
             }
         }
     }

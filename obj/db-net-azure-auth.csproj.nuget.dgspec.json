@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-azure-auth\\db-net-azure-auth.csproj": {}
+    "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-auth-console\\db-net-azure-auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-azure-auth\\db-net-azure-auth.csproj": {
+    "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-auth-console\\db-net-azure-auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-azure-auth\\db-net-azure-auth.csproj",
+        "projectUniqueName": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-auth-console\\db-net-azure-auth.csproj",
         "projectName": "db-net-azure-auth",
-        "projectPath": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-azure-auth\\db-net-azure-auth.csproj",
+        "projectPath": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-auth-console\\db-net-azure-auth.csproj",
         "packagesPath": "C:\\Users\\pamatulli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-azure-auth\\obj\\",
+        "outputPath": "C:\\Users\\pamatulli\\Documents\\Databridge\\Development\\db-net-auth-console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
